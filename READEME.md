@@ -16,10 +16,10 @@
     }
 
 Which code should be inserted to compile the program?
-> A. public int compareTo(Object o) { /* contents of the method */}
-> B. public int compareTo(A a) { /* contents of the method */}
-> C. public int compareTo(B b) { /* contents of the method */}
-> D. public int compareTo(Object o, B b) { /* contents of the method */}
+- A. public int compareTo(Object o) { /* contents of the method */}
+- B. public int compareTo(A a) { /* contents of the method */}
+- C. public int compareTo(B b) { /* contents of the method */}
+- D. public int compareTo(Object o, B b) { /* contents of the method */}
 
 
 
