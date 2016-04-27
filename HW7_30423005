@@ -1,4 +1,4 @@
-# HW7_30423005
+# HW7 30423005 #
 
     class A implements Comparable<B> {
     private int x,y;
