@@ -24,7 +24,7 @@ Which code should be inserted to compile the program?
  
 *Ans*
 `C. public int compareTo(B b) { /* contents of the method */}`
-* 因為 class A implements Comparable<B>，所以 要 insert 的 method 要丟進去的參數要是形態B的東西 *
+* 因為 class A implements Comparable<B>，所以 要 insert 的 method 丟進去的參數要是形態B的東西 *
 
 
 ### Q2 ###
